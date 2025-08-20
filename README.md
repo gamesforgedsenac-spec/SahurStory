@@ -1,5 +1,5 @@
-# Testedenys
+# SahurStory
 Grupo : 
-Isabele -> Programação
-Victoria -> Designer
+Isabele -> Programação / 
+Victoria -> Designer / 
 Denys -> Lider
