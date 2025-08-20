@@ -1,2 +1,5 @@
 # Testedenys
-grupo : Isabele 
+Grupo : 
+Isabele -> Programação
+Victoria -> Designer
+Denys -> Lider
